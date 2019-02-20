@@ -6,7 +6,7 @@
   <td>1</td><td>1</td><td>bug_hunters</td><td>100</td><td><a href="https://github.com/aryan2906">Aryan Khandelwal</a></td><td><a href="https://github.com/alokratn62">Tanmay Sinha</a></td><td><a href="https://github.com/IshaanG">Ishaan Gupta</a></td>
   </tr>
   <tr>
-  <td>6</td><td>1</td><td>Searching...</td><td>100</td><td><a href="https://github.com/SouravJain01">Sourav Jain</a></td>
+  <td>6</td><td>1</td><td>Searching...</td><td>100</td><td><a href="https://github.com/SouravJain01">Sourav Jain</a></td><td><a href="https://github.com/Simardeep19">Simardeep Singh</a></td>
   </tr>
   <tr>
     <td>9</td><td>1</td><td>Dank</td><td>100</td><td><a href = "https://github.com/madhavkauntia">Madhav Kauntia</a></td><td><a href="https://github.com/ygyash">Yash Goyal</a></td><td><a href="https://github.com/skbro">Sanskar Agarwal</a></td>
@@ -56,13 +56,14 @@
   </tr>
   <tr>   
       <tr>
- <td>43</td><td>6</td><td>Apna_Time_Ayega</td><td>50</td><td><a href="https://github.com/amankumarkeshu">Aman Kumar</a></td><a href="https://github.com/mynk322">MAYANK PADIA</a><td></td><td></td>
+ <td>43</td><td>6</td><td>Apna_Time_Ayega</td><td>50</td><td><a href="https://github.com/amankumarkeshu">Aman Kumar</a></td><td><a href="https://github.com/mynk322">MAYANK PADIA</a></td><td></td>
   </tr>
     
   <td>44</td><td>6</td><td>DCODER</td><td>50</td><td><a href="https://github.com/soumyajit4419">Soumyajit Behera</a></td><td></td><td></td>
   </tr>
   <tr>
-  <td>50</td><td>7</td><td>Dephinite</td><td>40</td><td><a href="https://github.com/ankan-ekansh">Ankan Ekansh</a></td><td></td><td><a href="https://github.com/aashirwad1">Aashirwad Kumar</a></td>
+
+  <td>50</td><td>7</td><td>Dephinite</td><td>40</td><td><a href="https://github.com/ankan-ekansh">Ankan Ekansh</a></td><td><a href="https://github.com/sucrose1729/">Himanshu Shekhar</a></td><td><a href="https://github.com/aashirwad1">Aashirwad Kumar</a></td>
   </tr>
  
   
