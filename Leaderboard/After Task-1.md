@@ -65,8 +65,6 @@
 
   <td>50</td><td>7</td><td>Dephinite</td><td>40</td><td><a href="https://github.com/ankan-ekansh">Ankan Ekansh</a></td><td><a href="https://github.com/sucrose1729/">Himanshu Shekhar</a></td><td><a href="https://github.com/aashirwad1">Aashirwad Kumar</a></td>
   </tr>
- 
-  
   <tr>
   <td>55</td><td>7</td><td>Devtest</td><td>40</td><td><a href="https://github.com/akshaydesai26">Akshay Desai</a></td><td></td><td></td>
   </tr>
